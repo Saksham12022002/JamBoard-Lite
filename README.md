@@ -32,8 +32,9 @@ https://jamboard-lite.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/60064779/112635627-0d89b580-8e62-11eb-93ae-87d98144ac6f.png)
 
 ## Developers
- Apoorv Priyadarsh<br>
- Saksham Saxena
+ <a href="https://github.com/apoorv-tech"> Apoorv Priyadarsh<br></a>
+ <a href="https://github.com/Saksham12022002"> Saksham Saxena<br></a>
+ 
 
 
 
